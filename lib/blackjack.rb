@@ -39,9 +39,9 @@ def initial_round
 end
 
 def hit?(card_total)
-  #prompt_user
-  #choice = get_user_input
   # code hit? here
+  prompt_user
+  choice = get_user_input
   #if choice == 's'
 
 end
